@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **css,Js,python,java**
 
-- 📫 How to reach me **saichallapaddy@gmail.com**
+- 📫 How to reach me **saichallapareddy@gmail.com**
 
 - 📄 Know about my experiences ["C:\Users\Sai Prabhakar\Desktop\Sai Prabhakar Challapureddy.docx"]("C:\Users\Sai Prabhakar\Desktop\Sai Prabhakar Challapureddy.docx")
 
