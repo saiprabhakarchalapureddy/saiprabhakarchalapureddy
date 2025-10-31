@@ -1,18 +1,18 @@
 [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](http://rishavchand.io)
-<h1 align="center">Hi 👋, I'm sai sanju</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm SaiPrabhakar Chalapureddy</h1>
+<h3 align="center">A passionate FullStack Web Developer from India</h3>
 <img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju0038&label=Profile%20views&color=0e75b6&style=flat" alt="sanju0038" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiprabhakarchalapureddy&label=Profile%20views&color=0e75b6&style=flat" alt="sanju0038" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saisanju5438" target="blank"><img src="https://img.shields.io/twitter/follow/saisanju5438?logo=twitter&style=for-the-badge" alt="saisanju5438" /></a> </p>
 
-- 🔭 I’m currently working on **Building websites.**
+- 🔭 I’m currently working on **Building websites and AI agents.**
 
-- 🌱 I’m currently learning **Frameworks,Database**
+- 🌱 I’m currently learning **Frameworks,Database,n8n workflows**
 
-- 👯 I’m looking to collaborate on **Frontend based companies.**
+- 👯 I’m looking to collaborate on **Fullstack Development based companies.**
 
 - 💬 Ask me about **css,Js,python,java**
 
